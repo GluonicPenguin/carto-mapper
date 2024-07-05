@@ -17,6 +17,11 @@ unique_groups = pass_groups.unique()
 
 df_climbed = df.loc[df["Climbed"] == "Y"]
 
+df_2000ers = df.loc[df["Height (m)"] >= 2000]
+total_2000ers = len(df_2000ers)
+df_2000ers_climbed = df_2000ers.loc[df_2000ers["Climbed"] == "Y"]
+total_2000ers_climbed = len(df_2000ers_climbed)
+
 distinct_colors = generate_distinct_colors(len(unique_groups))
 pass_group_dict = dict(zip(unique_groups, distinct_colors))
 fig, ax = plt.subplots(subplot_kw={'projection': ccrs.PlateCarree()}, figsize=(20,15))
@@ -32,10 +37,11 @@ scatter = ax.scatter(df["Longitude"], df["Latitude"], color="k", s=0.1*df['Heigh
 df['combined_name'] = df['Name of pass'] + "\nAltitude: " + df['Height (m)'].astype(str) + "m\nLat: " + df["Latitude"].astype(str) + " N\nLon: " + df["Longitude"].astype(str) + " E"
 pass_info = df['combined_name'].to_list()
 
-mplcursors.cursor(scatter, hover=True).connect("add", lambda sel: sel.annotation.set_text(pass_info[sel.target.index]))
+mplcursors.cursor(scatter, hover=True).connect("add", lambda sel: sel.annotation.set_text(pass_info[sel.index]))
 
 ax.add_feature(cfeature.BORDERS)
 ax.coastlines()
 ax.legend(loc='lower right')
-
+ax.annotate("Climbed " + str(total_2000ers_climbed) + " 2000ers\nof " + str(total_2000ers) + " in the Alps", 
+    xy=(1.2*df["Longitude"].min(), 0.9*df["Latitude"].max()),horizontalalignment='center',fontsize=16)
 plt.show()
