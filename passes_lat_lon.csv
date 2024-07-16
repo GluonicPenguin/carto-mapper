@@ -14,16 +14,16 @@ Col de Vergio,1477,Corsica,42.3235,8.9948,N
 Col de Teghime,536,Corsica,42.6144,9.2171,N
 Col d’Izoard,2361,Cottian,44.8197,6.735,N
 Col de la Platrière,2212,Cottian,44.80665,6.73629,N
-Colle del Monginevro,1860,Cottian,44.9317,6.7255,N
-Colle della Scala,1762,Cottian,45.0264,6.6569,N
+Colle del Monginevro,1860,Cottian,44.9317,6.7255,Y
+Colle della Scala,1762,Cottian,45.0264,6.6569,Y
 Col Agnel,2744,Cottian,44.7314,6.9161,N
 Colle di Sampeyre,2284,Cottian,44.6112,7.1325,N
-Col de Granon,2405,Cottian,44.963,6.6119,N
+Col du Granon,2405,Cottian,44.963,6.6119,Y
 Col de Tende,1870,Cuneo,44.14917,7.56194,Y
-Colle Fauniera,2481,Cuneo,44.2524,7.1528,N
-Colle del Vallonetto,2439,Cuneo,44.1943,7.1314,N
-Colle di Valcavera,2416,Cuneo,44.3124,7.175,N
-Colle d’Esischie,2366,Cuneo,44.3475,7.0706,N
+Colle Fauniera,2481,Cuneo,44.2524,7.1528,Y
+Colle del Vallonetto,2439,Cuneo,44.1943,7.1314,Y
+Colle di Valcavera,2416,Cuneo,44.3124,7.175,Y
+Colle d’Esischie,2366,Cuneo,44.3475,7.0706,Y
 Col de la Lombarde,2351,Cuneo,44.2022,7.1503,Y
 Umbrailpass,2501,Graubunden,46.5507,10.4507,Y
 Flüelapass,2384,Graubunden,46.8107,9.8149,Y
@@ -61,7 +61,7 @@ Col du Mont Cenis/Colle del Moncenisio,2083,Susa,45.2856,6.9036,Y
 Col de l’Iseran,2764,Susa,45.4077,7.0935,Y
 Plan du Lac (Bellecombe),2373,Susa,45.339391,6.832393,N
 Col du Petit Mont Cenis/Colle Piccolo Moncenisio,2183,Susa,45.2431,6.8251,Y
-Nevache,2033,Susa,45.059969,6.524884,N
+Nevache,2033,Susa,45.059969,6.524884,Y
 Passo di Vallés,2033,Trentino-Alto Adige,46.3333,11.8,N
 Passo di Fedaia,2054,Trentino-Alto Adige,46.7275,11.8437,N
 Passo del Manghen,2045,Trentino-Alto Adige,46.2038,11.4453,N
