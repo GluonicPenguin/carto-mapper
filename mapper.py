@@ -19,6 +19,7 @@ df_climbed = df.loc[df["Climbed"] == "Y"]
 
 df_2000ers = df.loc[df["Height (m)"] >= 2000]
 total_2000ers = len(df_2000ers)
+#print(df_2000ers["Name of pass"])
 df_2000ers_climbed = df_2000ers.loc[df_2000ers["Climbed"] == "Y"]
 total_2000ers_climbed = len(df_2000ers_climbed)
 

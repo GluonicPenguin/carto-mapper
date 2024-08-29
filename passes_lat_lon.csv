@@ -1,24 +1,25 @@
 Name of pass,Height (m),Location,Latitude,Longitude,Climbed
-Passo di Gavia,2619,Bormio,46.3934,10.4281,N
-Passo di Foscagno/Pass da Fus-chagn,2289,Bormio,46.4845,10.2387,N
-Passo d’Eira,2211,Bormio,46.4767,10.0936,N
-Goletto del Giogo della Bala,2136,Bormio,45.869687,10.382752,N
-Col Carette di Val Bighera,2130,Bormio,46.256174,10.3634162,N
-Sella dell’Auccia,2108,Bormio,45.864018,10.376975,N
-Passo del Dasdana,2086,Bormio,46.2912,10.1999,N
-Goletto di Ravenola,2072,Bormio,46.2892,10.2647,N
+Passo di Gavia,2619,Bormio,46.3934,10.4281,Y
+Passo di Foscagno/Pass da Fus-chagn,2289,Bormio,46.4845,10.2387,Y
+Passo d’Eira,2211,Bormio,46.4767,10.0936,Y
+Goletto del Giogo della Bala,2136,Bormio,45.869687,10.382752,Y
+Col Carette di Val Bighera,2130,Bormio,46.256174,10.3634162,Y
+Sella dell’Auccia,2108,Bormio,45.864018,10.376975,Y
+Passo del Dasdana,2086,Bormio,46.2912,10.1999,Y
+Goletto di Ravenola,2072,Bormio,46.2892,10.2647,Y
 Passo dello Stelvio,2758,Bormio,46.5323,10.4386,Y
 Col de Vizzavona,1163,Corsica,42.0837,9.135,N
 Col de Bavella,1218,Corsica,41.7519,9.2911,N
 Col de Vergio,1477,Corsica,42.3235,8.9948,N
 Col de Teghime,536,Corsica,42.6144,9.2171,N
-Col d’Izoard,2361,Cottian,44.8197,6.735,N
-Col de la Platrière,2212,Cottian,44.80665,6.73629,N
+Col d’Izoard,2361,Cottian,44.8197,6.735,Y
+Col de la Platrière,2212,Cottian,44.80665,6.73629,Y
 Colle del Monginevro,1860,Cottian,44.9317,6.7255,Y
 Colle della Scala,1762,Cottian,45.0264,6.6569,Y
-Col Agnel,2744,Cottian,44.7314,6.9161,N
-Colle di Sampeyre,2284,Cottian,44.6112,7.1325,N
+Col Agnel,2744,Cottian,44.7314,6.9161,Y
+Colle di Sampeyre,2284,Cottian,44.6112,7.1325,Y
 Col du Granon,2405,Cottian,44.963,6.6119,Y
+Nevache,2033,Cottian,45.059969,6.524884,Y
 Col de Tende,1870,Cuneo,44.14917,7.56194,Y
 Colle Fauniera,2481,Cuneo,44.2524,7.1528,Y
 Colle del Vallonetto,2439,Cuneo,44.1943,7.1314,Y
@@ -34,15 +35,15 @@ Julierpass,2284,Graubunden,46.4544,9.7219,Y
 Pass dal Fuorn,2149,Graubunden,46.6286,10.2272,Y
 Splügenpass,2115,Graubunden,46.5056,9.3303,Y
 Passo del San Bernardino,2067,Graubunden,46.4959,9.1708,Y
-Joch (Churer Joch),2020,Graubunden,46.9152,9.5528,N
-Sattel (Sattelalp),2018,Graubunden,46.8537,9.6095,N
+Sattel (Sattelalp),2018,Graubunden,46.8537,9.6095,Y
 Col du Galibier,2642,La Grave,45.0663,6.3841,N
 Collet du Plan Nicolas,2405,La Grave,45.1592,6.4732,N
-Col du Sabot,2100,La Grave,45.1375,6.394,N
-Col de la Croix de Fer,2065,La Grave,45.0542,6.2665,N
+Col du Sabot,2100,La Grave,45.1907,6.1091,N
+Col de la Croix de Fer,2065,La Grave,45.2275,6.2035,N
 Col du Lautaret,2057,La Grave,45.0472,6.3299,N
 Alpe d'Huez,1860,La Grave,45.0892,6.0695,N
 Col de la Loze,2304,La Plagne,45.4223,6.5975,N
+La Plagne Aime,2090,La Plagne,45.510278,6.666425,N
 Col du Petit Saint-Bernard,2189,La Plagne,45.6803,6.8839,N
 Mangartsko Sedlo,2055,Mangart,46.4439,13.6422,N
 Colle del Nivolet,2616,Orco Valley,45.4962,7.2152,N
@@ -61,7 +62,6 @@ Col du Mont Cenis/Colle del Moncenisio,2083,Susa,45.2856,6.9036,Y
 Col de l’Iseran,2764,Susa,45.4077,7.0935,Y
 Plan du Lac (Bellecombe),2373,Susa,45.339391,6.832393,N
 Col du Petit Mont Cenis/Colle Piccolo Moncenisio,2183,Susa,45.2431,6.8251,Y
-Nevache,2033,Susa,45.059969,6.524884,Y
 Passo di Vallés,2033,Trentino-Alto Adige,46.3333,11.8,N
 Passo di Fedaia,2054,Trentino-Alto Adige,46.7275,11.8437,N
 Passo del Manghen,2045,Trentino-Alto Adige,46.2038,11.4453,N
@@ -83,18 +83,19 @@ Timmelsjoch/Passo del Rombo,2475,Tyrol,46.8397,11.0467,N
 Bielerhöhe,2037,Tyrol,46.8855,10.1065,N
 Schiestelscharte/Graupn-Höhe/Glockenhütte,2029,Tyrol,47.0504,10.8059,N
 Kühtai-Sattel,2018,Tyrol,47.2139,11.0127,N
-Col de la Bonette,2715,Ubaye,44.3417,6.9111,N
-Faux Col de Restefond,2649,Ubaye,44.3051,6.7708,N
-Col de Vermillou,2513,Ubaye,44.340516,6.831982,N
-Col de la Moutière,2444,Ubaye,44.3645,6.8564,N
-Col de la Cayolle,2326,Ubaye,44.2981,6.7644,N
-Col d’Allos,2244,Ubaye,44.2472,6.6681,N
-Col de Vars,2109,Ubaye,44.4641,6.7322,N
-Col des Champs,2087,Ubaye,44.1749,6.698,N
-Col de Larche,1996,Ubaye,44.4201,6.8622,N
-Col de Pontis,1301,Ubaye,44.487816,6.348599,N
-Col de Saint-Jean,1333,Ubaye,44.41526,6.350789,N
-Montee de Sainte-Anne,1840,Ubaye,44.467908,6.718965,N
+Cime de la Bonette,2802,Ubaye,44.3417,6.9111,Y
+Faux Col de Restefond,2649,Ubaye,44.3051,6.7708,Y
+Col de Vermillou,2513,Ubaye,44.340516,6.831982,Y
+Col de la Moutière,2444,Ubaye,44.3645,6.8564,Y
+Col de la Cayolle,2326,Ubaye,44.2981,6.7644,Y
+Col d’Allos,2244,Ubaye,44.2472,6.6681,Y
+Col de Vars,2109,Ubaye,44.4641,6.7322,Y
+Col des Champs,2087,Ubaye,44.1749,6.698,Y
+Col de Larche,1996,Ubaye,44.4201,6.8622,Y
+Col de Pontis,1301,Ubaye,44.487816,6.348599,Y
+Lac d'Allos,2230,Ubaye,44.2344,6.7079,Y
+Col des Fillys,1322,Ubaye,44.41526,6.350789,Y
+Montee de Sainte-Anne,1840,Ubaye,44.467908,6.718965,Y
 Nufenenpass,2480,Uri,46.477157,8.388494,Y
 Furkapass,2429,Uri,46.572367,8.414961,Y
 Sustenpass,2260,Uri,46.729011,8.445553,Y
