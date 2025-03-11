@@ -1,12 +1,17 @@
 Name of pass,Height (m),Location,Latitude,Longitude,Climbed
+Col de Joux,1640,Aosta,45.7541,7.7029,N
+Col Tzecore,1611,Aosta,45.7277,7.7185,N
+Col d'Arlaz,1029,Aosta,45.6998,7.7006,N
+Breuil-Cervinia,2006,Aosta,45.9344,7.631,N
 Passo di Gavia,2619,Bormio,46.3934,10.4281,Y
 Passo di Foscagno/Pass da Fus-chagn,2289,Bormio,46.4845,10.2387,Y
 Passo d’Eira,2211,Bormio,46.4767,10.0936,Y
-Goletto del Giogo della Bala,2136,Bormio,45.869687,10.382752,Y
+Goletto del Giogo della Bala,2136,Bormio,45.868308,10.380705,Y
 Col Carette di Val Bighera,2130,Bormio,46.256174,10.3634162,Y
-Sella dell’Auccia,2108,Bormio,45.864018,10.376975,Y
-Passo del Dasdana,2086,Bormio,46.2912,10.1999,Y
-Goletto di Ravenola,2072,Bormio,46.2892,10.2647,Y
+Passo del Mortirolo,1852,Bormio,46.2479,10.2983,Y
+Sella dell’Auccia,2108,Bormio,45.857218,10.375167,Y
+Passo del Dasdana,2086,Bormio,45.842594,10.371499,Y
+Goletto di Ravenola,2072,Bormio,45.847427,10.368537,Y
 Passo dello Stelvio,2758,Bormio,46.5323,10.4386,Y
 Col de Vizzavona,1163,Corsica,42.0837,9.135,N
 Col de Bavella,1218,Corsica,41.7519,9.2911,N
@@ -39,6 +44,8 @@ Sattel (Sattelalp),2018,Graubunden,46.8537,9.6095,Y
 Col du Galibier,2642,La Grave,45.0663,6.3841,N
 Collet du Plan Nicolas,2405,La Grave,45.1592,6.4732,N
 Col du Sabot,2100,La Grave,45.1907,6.1091,N
+Col de la Madeleine,1993,La Grave,45.4348,6.3756,N
+Col du Telegraphe,1566,La Grave,45.2025,6.4444,N
 Col de la Croix de Fer,2065,La Grave,45.2275,6.2035,N
 Col du Lautaret,2057,La Grave,45.0472,6.3299,N
 Alpe d'Huez,1860,La Grave,45.0892,6.0695,N
@@ -47,17 +54,28 @@ La Plagne Aime,2090,La Plagne,45.510278,6.666425,N
 Col du Petit Saint-Bernard,2189,La Plagne,45.6803,6.8839,N
 Mangartsko Sedlo,2055,Mangart,46.4439,13.6422,N
 Colle del Nivolet,2616,Orco Valley,45.4962,7.2152,N
+Großsee,2420,Salzburg,47.0145,12.982,N
+Hochwurtenspeicher,2432,Salzburg,47.0194,13.0093,N
+Edelweißspitze,2571,Salzburg,47.1236,12.8314,N
 Hochtor,2504,Salzburg,47.2877,12.9835,N
 Fuscher-Törl,2402,Salzburg,47.0408,12.8036,N
 Tauernmoossee,2106,Salzburg,47.1735,12.8605,N
+Oscheniksee,2394,Salzburg,46.981293,13.084896,N
 Eisentalhöhe/Schpeik-Höhe,2049,Salzburg,47.1921,12.9128,N
-Colle Sommeiller,2993,Susa,45.1356,6.8467,N
+Schiestelscharte/Graupn-Höhe/Glockenhütte,2029,Salzburg,46.8902,13.7943,N
+Rifugio Citta di Cirie,1850,Susa,45.3072,7.1636,N
+Laghetto Bout du Col,1740,Susa,44.8614,7.0374,N
 Colle del Sestriere,2035,Susa,44.95744,6.87596,Y
-Colle dell'Assietta,2472,Susa,45.0704,6.957,N
+Colle Basset,2424,Susa,44.9882,6.8685,Y
+Colle Bourget,2299,Susa,45.0046,6.8899,Y
+Colle Costa Piana,2313,Susa,45.0221,6.8991,Y
+Monte Ginevris,2511,Susa,45.0309,6.9022,Y
+Colle Blegier,2361,Susa,45.0371,6.9158,Y
+Colle dell'Assietta,2472,Susa,45.0704,6.957,Y
 Colle del Lys,1312,Susa,45.1777,7.3825,Y
 Colle della Dieta,1449,Susa,45.2596,7.3622,Y
 Lago di Malciaussia,1805,Susa,45.2073,7.1411,Y
-Colle delle Finestre,2175,Susa,45.072452,7.052121,N
+Colle delle Finestre,2175,Susa,45.072452,7.052121,Y
 Col du Mont Cenis/Colle del Moncenisio,2083,Susa,45.2856,6.9036,Y
 Col de l’Iseran,2764,Susa,45.4077,7.0935,Y
 Plan du Lac (Bellecombe),2373,Susa,45.339391,6.832393,N
@@ -73,20 +91,20 @@ Passo del Sella/Jëuf de Ciavazes,2214,Trentino-Alto Adige,46.5323,11.7683,N
 Penser Joch,2213,Trentino-Alto Adige,46.8187,11.4409,N
 Ju de Valparola,2197,Trentino-Alto Adige,46.7507,11.4797,N
 Passo della Costazza,2181,Trentino-Alto Adige,46.5421,11.9904,N
-Jëuf de Frea,2122,Trentino-Alto Adige,46.9347,11.7765,N
+Passo Gardena/Jëuf de Frea,2122,Trentino-Alto Adige,46.9347,11.7765,N
 Passo di Falzarego/Fouzargo/Jou de Fauzare,2105,Trentino-Alto Adige,46.4216,11.6221,N
 Jaufenpass/Passo di Giovo,2098,Trentino-Alto Adige,46.7637,11.7237,N
 Staller Sattel/Passo Stalle,2052,Trentino-Alto Adige,46.8498,12.1981,N
 Sela de Culac/Kulatsch Sattel/Sella del Culaç,2018,Trentino-Alto Adige,46.5592,11.8111,N
+Kaunertaler Gletscherstraße,2750,Tyrol,46.8642,10.7133,N
 Tiefenbach Gletscherstraße,2820,Tyrol,46.8196,10.8871,N
 Timmelsjoch/Passo del Rombo,2475,Tyrol,46.8397,11.0467,N
 Bielerhöhe,2037,Tyrol,46.8855,10.1065,N
-Schiestelscharte/Graupn-Höhe/Glockenhütte,2029,Tyrol,47.0504,10.8059,N
 Kühtai-Sattel,2018,Tyrol,47.2139,11.0127,N
 Cime de la Bonette,2802,Ubaye,44.3417,6.9111,Y
 Faux Col de Restefond,2649,Ubaye,44.3051,6.7708,Y
 Col de Vermillou,2513,Ubaye,44.340516,6.831982,Y
-Col de la Moutière,2444,Ubaye,44.3645,6.8564,Y
+Col de la Moutière,2454,Ubaye,44.3645,6.8564,Y
 Col de la Cayolle,2326,Ubaye,44.2981,6.7644,Y
 Col d’Allos,2244,Ubaye,44.2472,6.6681,Y
 Col de Vars,2109,Ubaye,44.4641,6.7322,Y
@@ -99,7 +117,8 @@ Montee de Sainte-Anne,1840,Ubaye,44.467908,6.718965,Y
 Nufenenpass,2480,Uri,46.477157,8.388494,Y
 Furkapass,2429,Uri,46.572367,8.414961,Y
 Sustenpass,2260,Uri,46.729011,8.445553,Y
-Passo Scimfuss/Passo Scipscius,2242,Uri,46.6644,8.5919,N
+Lago della Sella,2256,Uri,46.5642,8.5997,N
+Passo Scimfuss,2242,Uri,46.6644,8.5919,N
 Gotthardpass,2107,Uri,46.555679,8.567089,Y
 Oberalppass,2044,Uri,46.6716,8.6132,Y
 Grimselpass,2164,Uri,46.561695,8.337715,Y
@@ -108,3 +127,10 @@ Sanetschpass,2253,Valais,46.2781,7.2365,Y
 Croix du Cœur,2174,Valais,46.1218,7.2324,Y
 Moosalppass,2049,Valais,46.2577,7.9015,Y
 Simplonpass,2006,Valais,46.250632,8.031636,Y
+Mattmarksee,2204,Valais,46.050278,7.963889,Y
+Lac de Moiry,2249,Valais,46.1275,7.5699,N
+Dam de Grande Dixence,2365,Valais,46.0809,7.4011,N
+Arolla,2120,Valais,46.0234,7.4818,N
+Lac de Cleuson,2186,Valais,46.107,7.3233,N
+Oberaarsee,2303,Valais,46.5432,8.2564,N
+Griessee,2386,Valais,46.4573,8.3698,N
